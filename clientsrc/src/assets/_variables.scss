@@ -1,0 +1,49 @@
+$body-bg: #F9F8FC;
+
+$primary: #593196;
+$secondary: #F9F8FC;
+$danger: #2f0055;
+$success: #28A745;
+$warning: #a50202;
+$info: #E9E9E9;
+$light: #E7E0F3;
+$dark: #343A40;
+$white: #FFFFFF;
+
+$blue: blue;
+$indigo: indigo;
+$purple: purple;
+$pink: pink;
+$red: red;
+$orange: orange;
+$yellow: yellow;
+$green: green;
+$teal: teal;
+$cyan: cyan;
+$white: white;
+$gray: gray;
+$gray-dark: darkslategray;
+
+$colors: (
+"blue": $blue,
+"indigo": $indigo,
+"purple": $purple,
+"pink": $pink,
+"red": $red,
+"orange": $orange,
+"yellow": $yellow,
+"green": $green,
+"teal": $teal,
+"cyan": $cyan,
+"white": $white,
+"gray": $gray,
+"gray-dark": $gray-dark
+) !default;
+
+$enable-gradients: true;
+// .btn-primary {
+//   color: $light;
+//   background-color: $primary;
+//   border-color: darken($color: $primary, $amount: 10);
+//   border-width: medium;
+// }
