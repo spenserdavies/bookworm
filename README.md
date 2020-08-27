@@ -1,6 +1,6 @@
 # Bookworm
 
-Project is live on: 
+<p>Project is live on: </p>
 
 <a href="http://bookworm-2020.herokuapp.com">Heroku</a>
 
@@ -20,3 +20,6 @@ Project is live on:
     The "Sell" feature works the same as the "Order" feature, but in the opposite manner.  It removes books from your inventory
   </li>
 </ul>
+<br>
+<p>As of now, each user only has access to their own personal inventory</p>
+<p>In the future, possible expansion to add assignment of access via email address or other form of ID</p>
