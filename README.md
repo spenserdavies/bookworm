@@ -26,13 +26,13 @@
     <li>Log in</li>
     <li>Click search in the navbar</li>
     <li>search for a book by title</li>
-    <li>click on it to navigate to its details page</li>
+    <li>click on a book that isnt the color red to navigate to its details page (red means it has no pricing info from the API)</li>
     <li>click the order button and fill out the modal</li>
     <li>navigate to the order screen using the navbar</li>
     <li>submit the order</li>
     <li>The book will appear in the inventory</li>
-    <li>Click the truck icon next to a book to sell it, the form appears at the top of the table</li>
-    <li>After completing the form, navigate to the sales page</li>
+    <li>Click the cart icon next to a book to sell it, the form appears at the top of the table</li>
+    <li>After completing the form, navigate to the invoice page</li>
     <li>Confirm the sale</li>
     <li>Inventory updates</li>
    </ul>
