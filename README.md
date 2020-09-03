@@ -21,5 +21,5 @@
   </li>
 </ul>
 <br>
-<p>As of now, each user only has access to their own personal inventory</p>
+<p>As of now, every user has access to the same inventory</p>
 <p>In the future, possible expansion to add assignment of access via email address or other form of ID</p>
