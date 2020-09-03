@@ -2,7 +2,7 @@
 
 <p>Project is live on: </p>
 
-<a href="http://bookworm-2020.herokuapp.com">Heroku</a>
+<a href="https://bookworm-2020.herokuapp.com">Heroku</a>
 
 
 <p>This application is meant to serve as an Inventory Management System for a book shop!</p>
